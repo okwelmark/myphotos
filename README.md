@@ -7,10 +7,9 @@
 </head>
 <body>
     <h4><center>Collection of my Photos</center></h4>
-        <img src="a.jpg" width="400px" height="300px"
-        float: left: alt="okwel edgar mark"/
+        <img src="a.jpg" width="400px" height="300px" alt="okwel edgar mark"/>
         <caption><i>taken by mcedgars</i></caption>
         <img src="b.jpg" width="400px" height="450px" alt="okwel edgar mark"/>
-        <caption<i>taken by mcedgars</i></caption>
+        <caption><i>taken by mcedgars</i></caption>
 </body>
 </html>
